@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code please cite it as below."
+title: "Code for Barrett et al- Counter-culture: Does social learning help or hinder adaptive response to human-induced rapid environmental change?"
+version: 1.0.0
+date-released: 2018-09-10
+url: "https://github.com/bjbarrett/SL_HIREC_review"
+authors:
+- family-names: "Barrett"
+  given-names: "Brendan J"
+  orcid: "https://orcid.org/0000-0002-2725-2385"
